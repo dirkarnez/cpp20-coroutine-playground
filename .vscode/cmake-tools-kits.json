@@ -1,0 +1,16 @@
+{
+    "name": "Mingw64 GCC 8.1.0",
+    "compilers": {
+      "C": "D:\\Softwares\\mingw-18.0-without-git\\MinGW\\bin\\gcc.exe",
+      "CXX": "D:\\Softwares\\mingw-18.0-without-git\\MinGW\\bin\\g++.exe"
+    },
+    "preferredGenerator": {
+      "name": "MinGW Makefiles",
+      "platform": "x64"
+    },
+    "environmentVariables": {
+      "PATH": "D:\\Softwares\\mingw-18.0-without-git\\MinGW\\bin"
+    }
+  }
+
+  

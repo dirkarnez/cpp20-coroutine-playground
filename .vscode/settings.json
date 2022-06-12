@@ -1,0 +1,53 @@
+{
+    "cmake.mingwSearchDirs": [
+        "D:\\Softwares\\mingw-18.0-without-git\\MinGW\\bin"
+    ],
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.cmakePath": "D:\\Softwares\\cmake-3.23.0-rc1-windows-x86_64\\bin\\cmake.exe",
+    "cmake.configureSettings": {
+        "CMAKE_MAKE_PROGRAM": "D:\\Softwares\\mingw-18.0-without-git\\MinGW\\bin\\mingw32-make.exe"
+    },
+    "files.associations": {
+        "array": "cpp",
+        "atomic": "cpp",
+        "*.tcc": "cpp",
+        "cctype": "cpp",
+        "clocale": "cpp",
+        "cmath": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "algorithm": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "optional": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "fstream": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "typeinfo": "cpp",
+        "coroutine": "cpp"
+    }
+}
+
